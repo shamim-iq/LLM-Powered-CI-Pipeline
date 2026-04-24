@@ -1,5 +1,7 @@
 # LLM-Powered CI/CD Pipeline with Code Coverage
 
+![OpenAI](Snapshots/OpenAI.png)
+
 ## Project Summary
 
 This project demonstrates a DevOps and Generative AI integrated CI/CD pipeline using GitHub Actions.
