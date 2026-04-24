@@ -1,6 +1,6 @@
 # LLM-Powered CI/CD Pipeline with Code Coverage
 
-![OpenAI](Snapshots/OpenAI.png)
+![OpenAI](Snapshots/OpenAI.jpg)
 
 ## Project Summary
 
